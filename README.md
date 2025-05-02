@@ -21,12 +21,26 @@
 
 ---
 
-## 🔥 GitHub Achievements  
+## 🔥 GitHub Achievements & Stats
 
-![GitHub Followers](https://img.shields.io/github/followers/Anuransh7?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/Anuransh7?style=social)  
-![Profile Visits](https://komarev.com/ghpvc/?username=Anuransh7&label=Profile+Visits&color=blue&style=plastic)  
-![Contributions](https://badges.pufler.dev/commits/all/Anuransh7)  
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Anuransh8?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Anuransh8?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Anuransh8&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuransh8&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=1f6feb" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuransh8&theme=tokyonight&hide_border=true&ring=7cd7fe&fire=ff9a00" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuransh8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
@@ -35,13 +49,6 @@
 - 🚀 Contributing to **Open Source Projects**  
 - 🌍 Learning **Cloud & Backend Technologies**  
 - 🛠️ Building innovative **MERN Stack Projects**
-
----
-
-### 📈 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anuransh7&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuransh7&show_icons=true&theme=dark)  
-
 
 ---
 

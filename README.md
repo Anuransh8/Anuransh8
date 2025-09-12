@@ -7,9 +7,9 @@
 
 <br><br>
 
-## 💫 About Me:
+# 💫 About Me:
 <p align="right">
-  <img align="right" alt="Coding" width="300px" src="https://github.com/Anuransh8/Anuransh8/blob/main/gitimg/gitaboutme.gif" />
+  <img align="right" alt="Coding" width="250px" src="https://github.com/Anuransh8/Anuransh8/blob/main/gitimg/gitaboutme.gif" />
 </p>
 
 🔭 I’m currently working on Myself  
@@ -20,9 +20,9 @@
 📫 How to reach me: **anuranshsrivastava84@gmail.com**  
 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/anuransh-srivastava-1b72a7265/)  
 
-<br>
+<br><br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="center">
   <a href="https://www.linkedin.com/in/anuransh-srivastava-1b72a7265/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -67,5 +67,5 @@
 
 <br>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anuransh8&theme=onedark&no-frame=false&no-bg=false&margin-w=4)

@@ -1,10 +1,10 @@
-<img aligh="center" src="https://github.com/Anuransh8/Anuransh8/blob/main/gitimg/gtiwelcome.png" width="500px" hspace="250px"/>
+<img aligh="center" src="https://github.com/Anuransh8/Anuransh8/blob/main/gitimg/gtiwelcome.png" width="500px" />
 
 <h1 align="center">Hey Everyone 👋, I'm Anuransh</h1>
 <h3 align="center">A passionate Web Developer  From India 🇮🇳</h3>
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://github.com/Anuransh8/Anuransh8/blob/main/gitimg/gitaboutme.gif">
+<img align="right" alt="Coding" width="380px" src="https://github.com/Anuransh8/Anuransh8/blob/main/gitimg/gitaboutme.gif">
 🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br>
 
 <br>👨‍💻 All of my projects are available at https://github.com/Anuransh8<br><br>💬 Ask me about Javascript, React, MERN and C++<br><br>📫 How to reach me anuranshsrivastava84@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/anuransh-srivastava-1b72a7265/

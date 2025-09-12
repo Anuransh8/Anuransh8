@@ -1,4 +1,4 @@
-<img aligh="center" src="https://github.com/Anuransh8/Anuransh8/blob/main/gitimg/gtiwelcome.png" width="500px" hspace="230px" />
+<img aligh="center" src="https://github.com/Anuransh8/Anuransh8/blob/main/gitimg/gtiwelcome.png" width="500px" hspace="200px" />
 
 <h1 align="center">Hey Everyone 👋, I'm Anuransh</h1>
 <h3 align="center">A passionate Web Developer  From India 🇮🇳</h3>
